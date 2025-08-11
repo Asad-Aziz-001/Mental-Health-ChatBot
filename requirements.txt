@@ -1,0 +1,5 @@
+nltk 
+streamlit 
+streamlit-chat 
+scikit-learn 
+pandas 
