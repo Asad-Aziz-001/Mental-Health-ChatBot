@@ -3,3 +3,4 @@ streamlit
 streamlit-chat 
 scikit-learn 
 pandas 
+wikipedia
