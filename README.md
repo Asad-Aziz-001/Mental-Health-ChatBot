@@ -1,7 +1,7 @@
 # **🎯 Build a Domain-Specific Q&A Chatbot Using Python**
 
-# **Live App Link 🔗:**
-https://mental-health-chatbot-umbkqjvhza7g9bbtbzjyc3.streamlit.app/
+[![Streamlit App](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-blue?style=for-the-badge&labelColor=red)](https://mental-health-chatbot-umbkqjvhza7g9bbtbzjyc3.streamlit.app/
+)
 
 # **1. Load the FAQ Dataset**
 
